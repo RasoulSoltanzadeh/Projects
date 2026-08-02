@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlNewTools", "SqlNewTools\SqlNewTools.csproj", "{83A6CC13-50DB-4B23-8673-FC543667BE3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83A6CC13-50DB-4B23-8673-FC543667BE3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A6CC13-50DB-4B23-8673-FC543667BE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A6CC13-50DB-4B23-8673-FC543667BE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A6CC13-50DB-4B23-8673-FC543667BE3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55970F26-CC39-451D-9541-F88A40788043}
+	EndGlobalSection
+EndGlobal
